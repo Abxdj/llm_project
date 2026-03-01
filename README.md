@@ -5,7 +5,7 @@ This project implements a GPT-style Transformer **from scratch** in PyTorch, wit
 - 🧩 **Token-level GPT** using GPT-2 tokenizer  
 - 🔤 **Character-level GPT** from raw text  
 
-It includes full training scripts (via notebooks), generation logic, and a chat interface, all designed to train and evaluate locally on consumer GPU hardware (e.g., NVIDIA RTX 3060 6GB).
+It includes full training scripts (via notebooks), generation logic, and a chat interface, all designed to train and evaluate locally on consumer GPU hardware (NVIDIA RTX 3060 6GB).
 
 ---
 
