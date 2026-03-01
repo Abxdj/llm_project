@@ -167,6 +167,6 @@ This is a learning implementation, not a production model:
 ## 📚 Credits & References
 
 *This project was informed and inspired by the following resources:*
-- Deep dive into training mini-LLMs: https://www.youtube.com/watch?v=UU1WVnMk4E8&t=19569s
-- Original GPT-2 paper overview: https://www.youtube.com/watch?v=kCc8FmEb1nY
+- Create a Large Language Model from Scratch with Python(freeCodeCamp): https://www.youtube.com/watch?v=UU1WVnMk4E8&t=19569s
+- Let's build GPT from scratch, in code, spelled out(Andrej Karpathy): https://www.youtube.com/watch?v=kCc8FmEb1nY
 - FreeCodeCamp Intro to LLMs repo: https://github.com/Infatoshi/fcc-intro-to-llms
